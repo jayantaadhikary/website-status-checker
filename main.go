@@ -10,9 +10,7 @@ func main() {
 	links := []string{
 		"http://google.com",
 		"http://golang.org",
-		"http://facebook.com",
 		"http://stackoverflow.com",
-		"http://amazon.com",
 	}
 
 	c := make(chan string)
